@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning JavaScript
 - 🎓 Análise e Desenvolvimento de Sistemas
 - 😊 Front-End
-- ✨ Ui / Ux 
+- ✨ Learning Ui / Ux 
 - 😄 Pronouns: ela/dela
 
 <div align = "center">
