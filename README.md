@@ -1,9 +1,8 @@
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 Quality Assurance
 - 🎓 Análise e Desenvolvimento de Sistemas
-- 😊 Front-End
+- 😊 Salesforce
 - ✨ Learning Ui / Ux 
-- 😄 Pronouns: ela/dela
 
 <div align = "center">
   <a href="https://github.com/ssmarcela">
