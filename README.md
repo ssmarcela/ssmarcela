@@ -2,7 +2,6 @@
 - 🌱 Quality Assurance
 - 🎓 Análise e Desenvolvimento de Sistemas
 - 😊 Salesforce
-- ✨ Learning Ui / Ux 
 
 <div align = "center">
   <a href="https://github.com/ssmarcela">
