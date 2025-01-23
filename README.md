@@ -1,18 +1,12 @@
+Olá! Sou uma profissional apaixonada por tecnologia e especializada no ecossistema Salesforce. Com mais de 3 anos de experiência, já atuei em projetos como desenvolvedora, QA e analista funcional, criando soluções personalizadas e inovadoras. Meu objetivo é entregar valor, automatizar processos e transformar desafios em oportunidades.
 
-- 🌱 Quality Assurance
-- 🎓 Análise e Desenvolvimento de Sistemas
-- 😊 Salesforce
+🌟 "Aprender algo novo todos os dias é o combustível para o meu crescimento." 🌟
 
-<div align = "center">
-  <a href="https://github.com/ssmarcela">
-  <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=ssmarcela&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ssmarcela&layout=compact&langs_count=7&theme=tokyonight" />
-</div>
-  
-  ##
-  
-  <div>
-     <a href="https://www.instagram.com/_luuazz/" target="_blank"> <img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- emblema & logo = instagram & logoColor = branco "target =" _ blank "> </a>
-  <a href="https://www.linkedin.com/in/marcela-santos-578b83209/" target="_blank"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5 ? style = for-the-badge & logo = linkedin & logoColor = white "target =" _ blank "> </a> 
-  </div>
-  
+---
+
+🚀 O Que Estou Buscando
+Atualmente, estou em busca de:
+
+Aprofundar meus conhecimentos em Salesforce QA e automações.
+Criar soluções que impactem diretamente o usuário final.
+Continuar aprendendo e crescendo na área de tecnologia.
